@@ -48,6 +48,7 @@ a {
 }
 
 a:hover {
+  color: lightgreen;
   opacity: 0.8;
 }
 
